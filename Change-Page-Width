@@ -1,0 +1,9 @@
+
+/* this code changes your page width, contributed by@edif3d, paste at end of Theme.css file*/
+
+    .page-width [
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+  
+  /* end page width code */
