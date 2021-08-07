@@ -1,0 +1,13 @@
+<!-- This code was created by @edifi3d / this begins the code to change your hero banner size in shopify debut theme 
+Add this to the end of your THEME.CSS file--> 
+
+
+.collection-hero__image{
+  height: YOURHEIGHTpx;
+}
+// show this instead on mobile
+@media screen and (max-width:749px) {
+  .collection-hero__image{
+    height: 200px;
+    }
+   }
