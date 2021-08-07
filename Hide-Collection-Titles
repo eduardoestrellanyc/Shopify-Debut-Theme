@@ -1,0 +1,6 @@
+/* This code will help you hide the collection titles in your shopify collection pages, contributed by @edif3ed
+add this file to the end of your theme.css file */ 
+
+.collection-hero__title { display: none; }
+
+/* end code */
