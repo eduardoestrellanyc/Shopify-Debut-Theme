@@ -1,0 +1,10 @@
+<!-- THESE ARE MY COMMENTS  --> 
+
+To make a parallax scrolling banner you want to add a background-attachment element to your css. 
+
+Often times you will want to edit the CSS in your theme.css file and collection-template.liquid file. 
+
+Isolate the element that you want to add the feature to add the following style code within its parameters
+</-- End Comments --> 
+
+background-attachment=fixed;
