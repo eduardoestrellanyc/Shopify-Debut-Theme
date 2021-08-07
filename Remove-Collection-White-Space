@@ -1,0 +1,22 @@
+/* shopify has too much white space, this code enhances where your products begin on the page, created by @edif3d 
+
+Follow the below instructions. This involves removing code not add it.
+
+Go to your "COLLECTIONS-TEMPLATE.LIQUID" and find the code that begins with 
+"{% if collection.description != blank%"  around lines 50-60 d remove this entire link of code below: 
+
+
+
+ {% if collection.description != blank %}
+        <div class="rte collection-description page-width">
+        
+        </div>
+      {% endif %}
+     
+     
+     
+This will remove the white space between the description and where the products begin
+
+*/
+
+
